@@ -12,3 +12,4 @@ SmartCommitTest999
 SmartCommitTest77
 
 SmartCommitTest_lsh
+SmartCommitTest_guk
