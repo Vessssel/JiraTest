@@ -3,4 +3,4 @@
 
 fesafesafe
 hihi
-SmartCommitTest
+SmartCommitTest2
