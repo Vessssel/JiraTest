@@ -14,3 +14,5 @@ SmartCommitTest77
 sjb~
 eeeee
 resarea
+SmartCommitTest_lsh
+SmartCommitTest_guk
