@@ -19,4 +19,6 @@ SmartCommitTest_guk
 SmartCommitTest_guk
 SmartCommitTest_guk
 
+SmartCommitTest_lsh99
+
 
