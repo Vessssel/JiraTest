@@ -3,3 +3,4 @@
 
 fesafesafe
 hihi
+SmartCommitTest
